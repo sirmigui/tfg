@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<map version="1.0">  
+    <mapID target="index" url="paginas/index.html"/>  
+    <mapID target="partidos" url="paginas/partidos.html"/>  
+    <mapID target="jugadores" url="paginas/jugadores.html"/>  
+    <mapID target="equipos" url="paginas/equipos.html"/>  
+</map>

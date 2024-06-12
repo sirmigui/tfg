@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0">
+    <tocitem text="Inazuma" target="inazuma" expand="true">
+        <tocitem text="Partidos" target="partidos"/>
+        <tocitem text="Jugadores" target="jugadores"/>
+        <tocitem text="Equipos" target="equipos"/>
+    </tocitem>
+</toc> 
